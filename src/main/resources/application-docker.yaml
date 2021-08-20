@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      database: my_db
+      port: 27017
+      username: demo
+      password: demo
+      host: host.docker.internal
